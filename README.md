@@ -19,7 +19,6 @@ The code can be ran in a command window using the command "py SolitaireSolver.py
 
 ## Contents
 If you want to go directly to a specific part of the repository, these links will take you there.
-- [Challenge Week Files](../master/Challenge_week)
 - [Code Files](../master/Code)
     - The techincal documentation can be found in this folder
     - [Screenshots of all the ace cards](../master/Code/ace_cards)
@@ -29,7 +28,6 @@ If you want to go directly to a specific part of the repository, these links wil
     - [Screenshots of the solataire board where the foundation positions are](../master/Code/foundation_images)
     - [Screenshots of all the king cards, both full face and symbol](../master/Code/king_cards)
     - [The readme file that contains the technical documentation about how my code works](../master/Code)
-- [Interim Oral Presentation Files](../master/interim_oral_presentation)
 - [Testing Files](../master/testing)
     - [Code testing files](../master/testing/code)
     - [Images used for testing](../master/testing/images)
